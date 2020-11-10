@@ -1,0 +1,18 @@
+model/Category.java
+ model.Category
+model/Trademark.java
+ model.Trademark
+controller/ProductServlet.java
+ controller.ProductServlet
+controller/StoreServlet.java
+ controller.StoreServlet
+service/ShopSevice.java
+ service.ShopSevice
+model/Group.java
+ model.Group
+controller/Shop.java
+ controller.Shop
+model/Product.java
+ model.Product
+controller/AdminServlet.java
+ controller.AdminServlet
